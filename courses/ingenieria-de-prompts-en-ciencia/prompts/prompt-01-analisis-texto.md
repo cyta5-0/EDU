@@ -22,3 +22,13 @@ crítico a la IA.
 - curación académica
 - entrenamiento en lectura crítica
 
+## Módulo relacionado
+
+Este prompt se utiliza en:
+
+## Módulo relacionado
+
+Este prompt se utiliza en:
+
+- [Módulo 01 – Introducción](../modules/01-introduccion/README.md)
+
