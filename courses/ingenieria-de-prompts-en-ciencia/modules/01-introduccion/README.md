@@ -16,3 +16,7 @@ Al finalizar este módulo, el participante será capaz de:
 - Comprender qué es un prompt y su función en sistemas de IA generativa
 - Reconocer el alcance y las limitaciones del uso de IA en ciencia
 - Diferenciar entre uso instrumental y uso epistemológico de la IA
+
+## Actividades asociadas
+
+- [Actividad 01 – Formulación de un prompt académico](../../activities/actividad-01/README.md)
