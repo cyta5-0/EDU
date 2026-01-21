@@ -1,6 +1,6 @@
 # CyTA-EDU
 
-**CyTA-EDU** es la plataforma educativa abierta de **CyTA (Ciencia y Tecnología Abierta)**. Reúne materiales, cursos, prácticas y recursos colaborativos orientados a la formación en curación académica, semántica del conocimiento e inteligencia artificial como asistente en la producción científica.
+**CyTA-EDU** es la plataforma educativa abierta de **CyTA (Ciencia y Técnica Administrativa)**. Reúne materiales, cursos, prácticas y recursos colaborativos orientados a la formación en curación académica, semántica del conocimiento e inteligencia artificial como asistente en la producción científica.
 
 > **EDU**: *e‑learning · didactic · universal*
 
