@@ -18,8 +18,11 @@ La estructura base es la siguiente:
 nombre-del-curso/
 │
 ├─ Curso.md
-│   ├─ Título 
-│   │   └─ Campo disciplinar, Palabras Clave, Nivel educativo.
+│   ├─ Título
+│   ├─ Catalogación
+│   │   └─ Área de conocimiento 
+│   │   └─ Palabras Clave
+│   │   └─ Grado de complejidad y profundidad
 │   ├─ Descripción General
 │   ├─ Objetivos de Aprendizaje
 │   ├─ Unidades Temáticas
