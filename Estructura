@@ -23,30 +23,36 @@ nombre-del-curso/
 │   └─ evaluación
 │
 ├─ modules/
-│   ├─ 01-introduccion/
-│   │   └─ README.md
-│   │      └─ contenidos
-│   │      └─ practica
-│   │      └─ prompts
+│   ├─ 01-Clase-1/
+│   │   ├─ Contenidos-de-Clase.md
+│   │   │  └─ teoría
+│   │   │  └─ práctica
+│   │   │  └─ prompts
+│   │   ├─ Materiales-de-Clase/
+│   │   │  └─ texto
+│   │   │  └─ transparencia
+│   │   │  └─ video
+│   │   │  └─ ejercicio
 │   ├─ 02-marco-teorico/
-│   │   └─ README.md
-│   │      └─ contenidos
-│   │      └─ practica
-│   │      └─ prompts
+│   │   ├─ README.md
+│   │   │  └─ contenidos
+│   │   │  └─ practica
+│   │   │  └─ prompts
+│   │   └─ resources/
+│   │      └─ lecturas.md
+│   │      └─ enlaces.md
 │   └─ 0X-siguiente/
-│       └─ README.md
-│          └─ contenidos
-│          └─ practica
-│          └─ prompts
+│   │   ├─ README.md
+│   │   │  └─ contenidos
+│   │   │  └─ practica
+│   │   │  └─ prompts
+│   │   └─ resources/
+│   │      └─ lecturas.md
+│   │      └─ enlaces.md
 │
 ├─ activities/
 │   ├─ actividad-01.md
 │   └─ actividad-02.md
-│
-├─ resources/
-│   ├─ bibliografia.md
-│   │   ├─ lecturas.md
-│   │   └─ enlaces.md
 
 ```
 
