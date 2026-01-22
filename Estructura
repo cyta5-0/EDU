@@ -18,10 +18,13 @@ La estructura base es la siguiente:
 nombre-del-curso/
 │
 ├─ README.md
-│   ├─ syllabus
-│   ├─ objetivos
-│   └─ evaluación
-│
+│   ├─ Título 
+│   │   └─ Campo disciplinar, Palabras Clave, Nivel educativo.
+│   ├─ Descripción General
+│   ├─ Objetivos de Aprendizaje
+│   ├─ Unidades Temáticas
+│   ├─ Cuerpo Académico
+│   ├─ Contenido del Curso
 ├─ modules/
 │   ├─ 01-Clase-1/
 │   │   ├─ Contenidos-de-Clase.md
