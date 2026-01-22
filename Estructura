@@ -1,0 +1,179 @@
+# Curso Plantilla – CyTA-EDU
+
+Este documento define la **plantilla oficial de cursos** para la plataforma **CyTA-EDU**. Está diseñada para ser **clara, replicable y reutilizable** por docentes que deseen implementar sus propios cursos en GitHub, manteniendo coherencia pedagógica e institucional.
+
+---
+
+## 1. Estructura del curso
+
+Cada curso en CyTA-EDU debe ubicarse dentro de la carpeta:
+
+```
+/courses/nombre-del-curso/
+```
+
+La estructura base es la siguiente:
+
+```
+nombre-del-curso/
+│
+├─ README.md
+├─ syllabus.md
+├─ objetivos.md
+├─ evaluacion.md
+│
+├─ modules/
+│   ├─ 01-introduccion/
+│   │   ├─ README.md
+│   │   └─ contenidos.md
+│   ├─ 02-marco-teorico/
+│   │   ├─ README.md
+│   │   └─ contenidos.md
+│   └─ 03-practica/
+│       ├─ README.md
+│       └─ contenidos.md
+│
+├─ activities/
+│   ├─ actividad-01.md
+│   └─ actividad-02.md
+│
+├─ resources/
+│   ├─ bibliografia.md
+│   ├─ lecturas.md
+│   └─ enlaces.md
+│
+└─ prompts/
+    ├─ README.md
+    └─ prompts-base.md
+```
+
+---
+
+## 2. Descripción de los archivos principales
+
+### README.md
+
+Presentación general del curso:
+
+* título
+* breve descripción
+* destinatarios
+* modalidad
+* requisitos previos
+
+---
+
+### syllabus.md
+
+Programa del curso:
+
+* estructura general
+* módulos y contenidos
+* duración estimada
+
+---
+
+### objetivos.md
+
+Objetivos del curso:
+
+* objetivo general
+* objetivos específicos
+* competencias a desarrollar
+
+---
+
+### evaluacion.md
+
+Criterios de evaluación:
+
+* actividades obligatorias
+* criterios de aprobación
+* modalidad de evaluación (formativa / sumativa)
+
+---
+
+## 3. Módulos
+
+Cada módulo representa una **unidad pedagógica autónoma**.
+
+Contenido sugerido en `README.md` del módulo:
+
+* propósito del módulo
+* resultados de aprendizaje
+* articulación con otros módulos
+
+Contenido sugerido en `contenidos.md`:
+
+* desarrollo conceptual
+* ejemplos
+* referencias internas al curso
+
+Los módulos se numeran para mantener **secuencialidad pedagógica**.
+
+---
+
+## 4. Actividades
+
+La carpeta `activities/` contiene las consignas prácticas del curso.
+
+Cada actividad debe incluir:
+
+* propósito
+* consignas claras
+* criterios de entrega
+* relación con módulos específicos
+
+---
+
+## 5. Recursos
+
+La carpeta `resources/` agrupa materiales de apoyo:
+
+* bibliografía académica
+* lecturas recomendadas
+* enlaces externos
+
+Los recursos deben ser, preferentemente, **de acceso abierto**.
+
+---
+
+## 6. Prompts (opcional)
+
+La carpeta `prompts/` se utiliza cuando el curso incorpora **IA generativa** como asistente educativo.
+
+Puede incluir:
+
+* prompts base
+* pautas de uso responsable
+* ejemplos de interacción
+
+La presencia de esta carpeta **no implica obligatoriedad de uso de IA**.
+
+---
+
+## 7. Replicabilidad docente
+
+Esta plantilla puede ser:
+
+* copiada íntegramente por otros docentes,
+* adaptada a distintos contextos disciplinares,
+* utilizada como estándar común entre instituciones.
+
+La replicabilidad es un principio central de CyTA-EDU.
+
+---
+
+## 8. Articulación institucional
+
+Los cursos definidos con esta plantilla pueden vincularse a la plataforma educativa de CyTA para:
+
+* identificación formal del curso,
+* trazabilidad académica,
+* certificación.
+
+La gestión administrativa se realiza fuera de GitHub.
+
+---
+
+**CyTA-EDU – Plataforma educativa abierta**
