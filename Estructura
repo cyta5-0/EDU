@@ -18,20 +18,26 @@ La estructura base es la siguiente:
 nombre-del-curso/
 │
 ├─ README.md
-├─ syllabus.md
-├─ objetivos.md
-├─ evaluacion.md
+│   ├─ syllabus
+│   ├─ objetivos
+│   └─ evaluación
 │
 ├─ modules/
 │   ├─ 01-introduccion/
-│   │   ├─ README.md
-│   │   └─ contenidos.md
+│   │   └─ README.md
+│   │      └─ contenidos
+│   │      └─ practica
+│   │      └─ prompts
 │   ├─ 02-marco-teorico/
-│   │   ├─ README.md
-│   │   └─ contenidos.md
-│   └─ 03-practica/
-│       ├─ README.md
-│       └─ contenidos.md
+│   │   └─ README.md
+│   │      └─ contenidos
+│   │      └─ practica
+│   │      └─ prompts
+│   └─ 0X-siguiente/
+│       └─ README.md
+│          └─ contenidos
+│          └─ practica
+│          └─ prompts
 │
 ├─ activities/
 │   ├─ actividad-01.md
@@ -39,12 +45,9 @@ nombre-del-curso/
 │
 ├─ resources/
 │   ├─ bibliografia.md
-│   ├─ lecturas.md
-│   └─ enlaces.md
-│
-└─ prompts/
-    ├─ README.md
-    └─ prompts-base.md
+│   │   ├─ lecturas.md
+│   │   └─ enlaces.md
+
 ```
 
 ---
