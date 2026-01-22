@@ -17,26 +17,26 @@ La estructura base es la siguiente:
 ```
 nombre-del-curso/
 │
-├─ README.md
+├─ Curso.md
 │   ├─ Título 
 │   │   └─ Campo disciplinar, Palabras Clave, Nivel educativo.
 │   ├─ Descripción General
 │   ├─ Objetivos de Aprendizaje
 │   ├─ Unidades Temáticas
 │   ├─ Cuerpo Académico
-│   ├─ Contenido del Curso
-├─ modules/
+│   └─  Contenido del Curso
+├─ Clases/
 │   ├─ 01-Clase-1/
-│   │   ├─ Contenidos-de-Clase.md
-│   │   │  └─ teoría
-│   │   │  └─ práctica
-│   │   │  └─ prompts
-│   │   └─ Materiales-de-Clase.md
+│   │   ├─ Contenido-de-la-Clase.md
+│   │   │  └─ Título de la Clase
+│   │   │  └─ Descripción
+│   │   │  └─ Clase
+│   ├─ Materiales-de-Clase
 │   │      └─ texto
 │   │      └─ transparencia
 │   │      └─ video
 │   │      └─ ejercicio
-│   │
+│   ├─ Ediciones Disponibles
 │   ├─ 02-Clase-2/
 │   │   ├─ Contenidos-de-Clase.md
 │   │   │  └─ teoría
