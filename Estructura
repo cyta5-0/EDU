@@ -36,17 +36,18 @@ nombre-del-curso/
 │   │      └─ transparencia
 │   │      └─ video
 │   │      └─ ejercicio
-│   ├─ Ediciones Disponibles
+│   └─ Ediciones Disponibles
 │   ├─ 02-Clase-2/
-│   │   ├─ Contenidos-de-Clase.md
-│   │   │  └─ teoría
-│   │   │  └─ práctica
-│   │   │  └─ prompts
-│   │   └─ Materiales-de-Clase.md
+│   │   ├─ Contenido-de-la-Clase.md
+│   │   │  └─ Título de la Clase
+│   │   │  └─ Descripción
+│   │   │  └─ Clase
+│   ├─ Materiales-de-Clase
 │   │      └─ texto
 │   │      └─ transparencia
 │   │      └─ video
 │   │      └─ ejercicio
+│   └─ Ediciones Disponibles
 
 ```
 
