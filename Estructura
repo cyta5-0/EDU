@@ -28,31 +28,22 @@ nombre-del-curso/
 │   │   │  └─ teoría
 │   │   │  └─ práctica
 │   │   │  └─ prompts
-│   │   ├─ Materiales-de-Clase/
-│   │   │  └─ texto
-│   │   │  └─ transparencia
-│   │   │  └─ video
-│   │   │  └─ ejercicio
-│   ├─ 02-marco-teorico/
-│   │   ├─ README.md
-│   │   │  └─ contenidos
-│   │   │  └─ practica
+│   │   └─ Materiales-de-Clase.md
+│   │      └─ texto
+│   │      └─ transparencia
+│   │      └─ video
+│   │      └─ ejercicio
+│   │
+│   ├─ 02-Clase-2/
+│   │   ├─ Contenidos-de-Clase.md
+│   │   │  └─ teoría
+│   │   │  └─ práctica
 │   │   │  └─ prompts
-│   │   └─ resources/
-│   │      └─ lecturas.md
-│   │      └─ enlaces.md
-│   └─ 0X-siguiente/
-│   │   ├─ README.md
-│   │   │  └─ contenidos
-│   │   │  └─ practica
-│   │   │  └─ prompts
-│   │   └─ resources/
-│   │      └─ lecturas.md
-│   │      └─ enlaces.md
-│
-├─ activities/
-│   ├─ actividad-01.md
-│   └─ actividad-02.md
+│   │   └─ Materiales-de-Clase.md
+│   │      └─ texto
+│   │      └─ transparencia
+│   │      └─ video
+│   │      └─ ejercicio
 
 ```
 
