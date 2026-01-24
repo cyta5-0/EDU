@@ -34,106 +34,56 @@ nombre-del-curso/
 │   │   │  └─ Título de la Clase
 │   │   │  └─ Descripción
 │   │   │  └─ Clase
-│   ├─ Materiales-de-Clase
-│   │      └─ texto
-│   │      └─ transparencia
-│   │      └─ video
-│   │      └─ ejercicio
-│   └─ Ediciones Disponibles
+│   │   │  └─ Materiales-de-la-Clase
+│   │   │       └─ texto
+│   │   │       └─ transparencia
+│   │   │       └─ video
+│   │   │       └─ ejercicio
 │   ├─ 02-Clase-2/
 │   │   ├─ Contenido-de-la-Clase.md
 │   │   │  └─ Título de la Clase
 │   │   │  └─ Descripción
 │   │   │  └─ Clase
-│   ├─ Materiales-de-Clase
-│   │      └─ texto
-│   │      └─ transparencia
-│   │      └─ video
-│   │      └─ ejercicio
-│   └─ Ediciones Disponibles
+│   │   │  └─ Materiales-de-la-Clase
+│   │   │       └─ texto
+│   │   │       └─ transparencia
+│   │   │       └─ video
+│   │   │       └─ ejercicio
 
 ```
 
----
-
 ## 2. Descripción de los archivos principales
 
-### README.md
+### Curso.md
 
 Presentación general del curso:
 
-* título
-* breve descripción
-* destinatarios
-* modalidad
-* requisitos previos
+* Título
+* Catalogación
+*   └─ Área de conocimiento 
+*   └─ Palabras Clave
+*   └─ Grado de complejidad y profundidad
+*Descripción General
+* Objetivos de Aprendizaje
+* Unidades Temáticas
+* Cuerpo Académico
+*  Contenido del Curso
 
 ---
 
-### syllabus.md
+### Contenido-de-la-Clase.md
 
-Programa del curso:
+* Título de la Clase
+* Descripción
+* Clase
+* Materiales-de-la-Clase
+* texto
+* transparencia
+* video
+* ejercicio
 
-* estructura general
-* módulos y contenidos
-* duración estimada
 
----
-
-### objetivos.md
-
-Objetivos del curso:
-
-* objetivo general
-* objetivos específicos
-* competencias a desarrollar
-
----
-
-### evaluacion.md
-
-Criterios de evaluación:
-
-* actividades obligatorias
-* criterios de aprobación
-* modalidad de evaluación (formativa / sumativa)
-
----
-
-## 3. Módulos
-
-Cada módulo representa una **unidad pedagógica autónoma**.
-
-Contenido sugerido en `README.md` del módulo:
-
-* propósito del módulo
-* resultados de aprendizaje
-* articulación con otros módulos
-
-Contenido sugerido en `contenidos.md`:
-
-* desarrollo conceptual
-* ejemplos
-* referencias internas al curso
-
-Los módulos se numeran para mantener **secuencialidad pedagógica**.
-
----
-
-## 4. Actividades
-
-La carpeta `activities/` contiene las consignas prácticas del curso.
-
-Cada actividad debe incluir:
-
-* propósito
-* consignas claras
-* criterios de entrega
-* relación con módulos específicos
-
----
-
-## 5. Recursos
+## 3. Recursos
 
 La carpeta `resources/` agrupa materiales de apoyo:
 
@@ -141,7 +91,7 @@ La carpeta `resources/` agrupa materiales de apoyo:
 * lecturas recomendadas
 * enlaces externos
 
-Los recursos deben ser, preferentemente, **de acceso abierto**.
+Los recursos deben son de ** acceso abierto**.
 
 ---
 
@@ -177,7 +127,7 @@ Los cursos definidos con esta plantilla pueden vincularse a la plataforma educat
 
 * identificación formal del curso,
 * trazabilidad académica,
-* certificación.
+
 
 La gestión administrativa se realiza fuera de GitHub.
 
