@@ -95,21 +95,11 @@ Los recursos deben son de ** acceso abierto**.
 
 ---
 
-## 6. Prompts (opcional)
 
-La carpeta `prompts/` se utiliza cuando el curso incorpora **IA generativa** como asistente educativo.
-
-Puede incluir:
-
-* prompts base
-* pautas de uso responsable
-* ejemplos de interacción
-
-La presencia de esta carpeta **no implica obligatoriedad de uso de IA**.
 
 ---
 
-## 7. Replicabilidad docente
+## 5. Replicabilidad Académica
 
 Esta plantilla puede ser:
 
@@ -121,7 +111,7 @@ La replicabilidad es un principio central de CyTA-EDU.
 
 ---
 
-## 8. Articulación institucional
+## 6. Articulación institucional
 
 Los cursos definidos con esta plantilla pueden vincularse a la plataforma educativa de CyTA para:
 
